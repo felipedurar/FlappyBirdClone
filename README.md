@@ -1,7 +1,7 @@
 # FlappyBirdClone
 A Flappy Birt Like Game
 
-![alt text](screnshots/screen.png)
+![alt text](screenshots/screen.png)
 
 # What is it?
 This is a Flappy Bird like game coded using javascript. This was coded sometime ago and wasn't in any repository, so i decided to upload it here to keep history of it.
