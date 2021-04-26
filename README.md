@@ -9,3 +9,6 @@ This is a Flappy Bird like game coded using javascript. This was coded sometime 
 I was recording this when i was coding it and it was uploaded on youtube.
 
 https://youtu.be/iW-xYHD8bqE
+
+# How to run it?
+This is just a static page, you just need to download and double click the html file and run it on any supported browser.
