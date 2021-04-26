@@ -1,0 +1,38 @@
+<!-- Flappy Bird Clone -->
+<!-- Coded by: Felipe Durar -->
+<!-- 08/12/2016 -->
+<!doctype html>
+<html>
+    <head>
+        <title>
+            Flappy Bird
+        </title>
+        <link rel="stylesheet" href="style.css">
+        <script src="game.js"></script>
+    </head>
+    <body>
+        <div id="Game">
+            <!-- Our canvas object where everything will be draw -->
+            <canvas id="CTX">Your browser doesn't support canvas!</canvas>
+            <hr />
+            <div id="Settings">
+                 Pipe DistanceY: 
+                <input id="distY" type="number" value="130" />
+                <br />
+                 Pipe DistanceX: 
+                <input id="distX" type="number" value="150" />
+                <br />
+                 Jump Force:
+                <input id="jumpForce" type="number" value="17" />
+                <br />
+                 Gravity:
+                <input id="gravity" type="number" value="2" />
+                <br />
+                <button id="Button1" onclick="applySettings();">Apply</button>
+                <button id="resetScore" onclick="resetScore();">Reset Score</button>
+            </div>
+        </div>
+    </body>
+</html>
+
+<!-- End -->

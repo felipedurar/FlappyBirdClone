@@ -1,0 +1,16 @@
+#CTX {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#Game {
+    width: 400px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#Settings {
+    padding: 10px;
+    padding-top: 0px;
+}
